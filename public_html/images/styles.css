@@ -1,0 +1,336 @@
+/* 
+    Document   : styles.css
+    Created on : Oct 14, 2013, 10:00:58 AM
+    Author     : Student
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+/* Index*/
+#hindex{
+    background-color: black;
+    height: 100px;
+    padding: 10px 0px 0px 0px;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+#bindex{
+    margin: 0;
+}
+
+
+#sindex{
+    height: 443px; 
+    background-image: url('hfg.jpg');
+   padding: 0px 0px 0px 470px;
+}
+
+#nindex{
+    background-color: black;
+    font-size: 50px;
+    height: 90px;
+    text-align: center;
+}
+
+nav li{
+    display: inline-block;
+    color: black;
+    
+}
+
+
+
+/* Index */
+
+/* Pages */
+
+    
+    #bod{
+
+        background: url('bubbles3.png') no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+ 
+    }
+    
+     #bod2{
+
+       background: url('09875.jpg') no-repeat center center fixed;
+       -webkit-background-size: cover;
+       -moz-background-size: cover;
+       -o-background-size: cover;
+       background-size: cover;
+        
+        
+    }
+    
+         #bod22{
+               background: url('2345.jpg') no-repeat center center fixed;
+       -webkit-background-size: cover;
+       -moz-background-size: cover;
+       -o-background-size: cover;
+       background-size: cover;
+        
+    }
+    
+    
+    .Barticle{
+        background-color: #99131e;
+        
+    }
+    .Sarticle{
+      
+       width: 433px;
+      text-align: left;
+       display: inline-block; 
+       vertical-align: top;
+       padding: 3px 3px 3px 3px;
+       font-size: 20px;
+       margin: 0;
+       font-family: 'Mystery Quest', cursive;
+
+    }
+    
+        .Sarticle22{
+      
+       width: 433px;
+       display: inline-block; 
+       vertical-align: top;
+       padding: 3px 3px 3px 3px;
+       font-size: 20px;
+       margin: 0;
+       text-align: left;
+       font-family: 'Flavors', cursive;
+
+    }
+    
+        .Sarticle2{
+      
+       width: 433px;
+       display: inline-block; 
+       vertical-align: top;
+       padding: 3px 3px 3px 3px;
+       font-size: 20px;
+       margin: 0;
+       text-align: left;
+       font-family: 'Vampiro One', cursive;
+      
+
+    }
+    
+    .Harticle2{
+      
+       width: 1331px;
+       display: inline-block;
+       vertical-align: top;
+       margin: 0;
+       text-align: center;
+       font-family: 'Nova Script', cursive;
+        
+       
+       
+        
+    }
+    
+        
+    .Harticle23{
+      
+       width: 1331px;
+       display: inline-block;
+       vertical-align: top;
+       margin: 0;
+       text-align: center;
+       font-family: 'Contrail One', cursive;
+        
+       
+       
+        
+    }
+        
+    .Harticle233{
+      
+       width: 1331px;
+       display: inline-block;
+       vertical-align: top;
+       margin: 0;
+       text-align: center;
+       font-family: 'Gochi Hand', cursive;
+        
+       
+       
+        
+    }
+    
+    .head{
+        border-bottom: 5px solid red;
+        width: 1200px;
+        margin: 0px 0px 0px 50px;
+        vertical-align: center;
+        
+    }
+    
+        .head9{
+        border-top: 5px solid red;
+        width: 1200px;
+        margin: 0px 0px 0px 50px;
+        vertical-align: center;
+        
+    }
+    
+    .Farticle3{
+       
+       width: 1325px;
+       display: inline-table; 
+       vertical-align: top;
+       text-align: right;
+       margin: 0;
+       padding: 0px 15px 0px 0px;
+           font-family: 'Monoton', cursive;
+      
+        
+    }
+    
+        .Narticle3{
+       
+       width: 1331px;
+        background-image: url('bubbles3.png');
+       display: inline-block; 
+       vertical-align: top;
+       text-align: center;
+       margin: 0;
+       color: black;
+       font-family: 'Just Me Again Down Here', cursive;
+        
+    }
+    
+            .Narticle33{
+       
+       width: 1331px;  
+       display: inline-block; 
+       vertical-align: top;
+       text-align: center;
+       margin: 0;
+       color: black;
+       font-family: 'Just Me Again Down Here', cursive;
+        
+    }
+    
+                .Narticle333{
+       
+       width: 1331px;  
+       display: inline-block; 
+       vertical-align: top;
+       text-align: center;
+       margin: 0;
+       color: black;
+       font-family: 'Just Me Again Down Here', cursive;
+        
+    }
+    
+    #hpage2{
+    
+    
+}
+
+
+
+
+#spage2{
+    display: inline-table;
+    
+    
+}
+
+#spage22{
+    display: inline-table;
+
+    
+}
+
+#spage222{
+    display: inline-table;
+  
+    
+}
+
+
+    
+/* Pages */
+
+/* Links */
+
+a:link {text-decoration: none}
+a:visited {color: #fdfdd9;}
+a:hover {color: #63a8cf;}
+a:activate {color: #24242c;}
+
+a.link {
+    width: 300px;
+    padding: 10px 0px 10px 0px;
+    font-family: 'Average Sans', sans-serif;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    display: online;
+        border: 1px solid black;
+    -moz-border-radius: 33px;
+    -webkit-border-radius: 33px;
+    -khtml-border-radius: 33px;
+    border-radius: 33px;
+
+}
+a:hover.link {
+    color: lightblue;
+    background-color: #3a7796;
+    text-decoration: none;
+}
+
+
+
+a:link {text-decoration: none}
+a:visited {color: #fdfdd9;}
+a:hover {color: #63a8cf;}
+a:activate {color: #24242c;}
+
+a.link2 {
+    width: 300px;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    display: inline-block;
+    font-size: 17px;
+    display: online;
+    border: 1px solid gray;
+    -moz-border-radius: 33px;
+    -webkit-border-radius: 33px;
+    -khtml-border-radius: 33px;
+    border-radius: 33px;
+    background-color: lightblue;
+    color: red;
+     box-shadow: 15px 15px 10px black;
+     font-family: 'Just Me Again Down Here', cursive;
+     
+}
+a:hover.link2 {
+    color: lightblue;
+    background-color: #3a7796;
+    text-decoration: none;
+     box-shadow: 15px 15px 10px black;
+     font-family: 'Just Me Again Down Here', cursive;
+     
+}
+
+
+/* Links */
+
+
+
+
+
+

@@ -1,0 +1,422 @@
+#bod{
+    /*  background: url('http://www.taghua.com/');
+     background:"http://www.staggeringbeauty.com/";
+       border: 1px inset #ddd;
+   width: 498;
+   height: 598;*/
+   background-image: url('../images/wearable-tech.jpg');
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+}
+
+#header{
+       
+    color: #2deafb;
+    font-size: 50px;
+    font-family: 'Diplomata SC', cursive;
+     padding: 50px 0px 0px 0px;
+     text-align: center;
+     background-color: rgba(0,0,0,.8);
+}
+#border{
+     border-bottom: 5px solid white;
+     height: 50px;
+     width: 100px;
+     padding: 0px 0px 0px 10px;
+    
+}
+#header2{
+    /* background-image: url('../images/2345.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-size: cover;*/
+    font-size: 20px;
+    padding: 50px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    font-family: 'Berkshire Swash', cursive;
+   
+    opacity: 0.8;
+
+filter: alpha(opacity=80);
+}
+
+#header3{
+  /*   background-image: url('../images/2345.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-size: cover;*/
+    font-size: 20px;
+   
+  
+    font-family: 'Berkshire Swash', cursive;
+   
+    opacity: 0.8;
+
+filter: alpha(opacity=80);
+}
+#header4{
+    background-color: blue;
+    height: 150px;
+    font-family: 'Damion', cursive;
+        opacity: 0.8;
+
+filter: alpha(opacity=80);
+    
+}
+
+#header5{
+    background-color: orange;
+    height: 150px;
+        opacity: 0.8;
+
+filter: alpha(opacity=80);
+}
+
+#header6{
+    color: white;
+        opacity: 0.8;
+
+filter: alpha(opacity=80);
+
+}
+
+
+#header7{
+   font-family: 'Finger Paint', cursive;
+    font-size: 25px;
+    padding: 50px 0px 0px 0px;
+    line-space: 5px;
+    color: #c14fd2;
+}
+
+/* links */
+
+a:link {text-decoration: none}
+a:visited {color: #fdfdd9;}
+a:hover {color: #63a8cf;}
+a:activate {color: #24242c;}
+
+a.link {
+    width: 200px;
+    padding: 10px 0px 10px 0px;
+    font-family: 'Average Sans', sans-serif;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    display: online;
+    color: white;
+ 
+
+
+}
+a:hover.link {
+    color: orange;
+   
+    text-decoration: none;
+
+}
+
+
+
+a:link {text-decoration: none}
+a:visited {color: #fdfdd9;}
+a:hover {color: #63a8cf;}
+a:activate {color: #24242c;}
+
+
+/* #PAGE2 Styles
+================================================== */
+#bod2{
+    background-image: url('../images/tech.jpg');
+        -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#pheader{
+    background-color: black;
+   font-family: 'Fascinate Inline', cursive;
+   font-size: 50px;
+   color: #2deafb;
+   padding: 30px 0px 0px 0px;
+   height: 100px;
+    
+}
+
+#pheader2{
+    
+    font-family: 'Iceland', cursive;
+    font-size: 30px;
+    
+}
+.pics{
+    display: inline-block;
+    margin: 20px 100px 25px 100px; 
+    
+}
+.article{
+    width: 250px;
+}
+
+#pheader3{
+    color: white;
+    
+}
+#section1{
+    background-color: white;
+    
+}
+#pheader4{
+    font-size: 20px;
+    margin: 10px 10px 10px 10px;
+    
+}
+
+#pheader5{
+    
+    color: white;
+    font-size: 20px;
+}
+
+#pheader6{
+    color: white;
+    font-size: 20px;
+    
+}
+#pheader7{
+    font-family: 'Fredoka One', cursive;
+      color: #2deafb;
+   padding: 30px 0px 0px 0px;
+   height: 100px;
+   background-color: black;
+   font-size: 50px;
+    
+}
+#foot{
+    background-color: black;
+    text-align: center;
+    
+    
+}
+a:link {text-decoration: none}
+a:visited {color: #fdfdd9;}
+a:hover {color: #63a8cf;}
+a:activate {color: #24242c;}
+
+a.link {
+    width: 200px;
+    padding: 10px 0px 10px 0px;
+    font-family: 'Average Sans', sans-serif;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    display: online;
+    color: white;
+ 
+
+
+}
+a:hover.link {
+    color: orange;
+   
+    text-decoration: none;
+
+}
+
+
+
+a:link {text-decoration: none}
+a:visited {color: #fdfdd9;}
+a:hover {color: #63a8cf;}
+a:activate {color: #24242c;}
+
+#bod1{
+    background-image: url('../images/brain.jpg');
+          -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+}
+
+#section2{
+    background-color: white;
+    /*height: 300px;*/
+    
+}
+
+#section3{
+    background-color: white;
+    /*height: 300px;*/
+    
+}
+
+#border{
+    border-bottom: 3px solid gray;
+    width: 880px;
+    vertical-align: center;
+    margin: 10px 10px 10px 10px;
+    
+}
+
+.pics2{
+    display: block;
+    margin: 20px 100px 25px 100px; 
+    
+}
+#space{
+    margin: 0px 0px 0xp 10px;
+    font-size: 25px;
+    text-align: left;
+    font-family: 'PT Mono', sans-serif;
+    
+}
+#bod3{
+    background-image: url('../images/fire.gif');
+          -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+    
+}
+
+.pics3{
+        display: block;
+    margin: 20px 50px 25px 50px; 
+    
+}
+
+
+
+
+#space2{
+    height: 500px;
+    margin: 5px 0px 0px 5px;
+    color: white;
+    border: 0px solid gray;
+    -moz-border-radius: 33px;
+    -webkit-border-radius: 33px;
+    -khtml-border-radius: 33px;
+    border-radius: 33px;
+    font-family: 'Jolly Lodger', cursive;
+    font-size: 30px;
+    /*line-height: 100px;*/
+    
+    
+}
+
+#space3{
+    height: 200px;
+    margin: 0px 0px 0px 5px;
+    background: transparent;
+    
+}
+
+#space4{
+    height: 100px;
+    background-color: orange;
+    margin: 10px 100px 5px 5px;
+    border: 0px solid gray;
+    -moz-border-radius: 33px;
+    -webkit-border-radius: 33px;
+    -khtml-border-radius: 33px;
+    border-radius: 33px;
+    background-color: rgba(83,70,48,.5);
+    font-family: 'Press Start 2P', cursive;
+    line-height: 40px;
+
+}
+
+#space5{
+    height: 600px;
+    margin: 0px 0px 0px 0px;
+     background-image: url('../images/background_image_cookie.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+#space6{
+    height: 500px;
+    background-color: orange;
+    margin: 10px 0px 0px 50px;
+    color: white;
+    border: 0px solid gray;
+    -moz-border-radius: 33px;
+    -webkit-border-radius: 33px;
+    -khtml-border-radius: 33px;
+    border-radius: 33px;
+    background-color: rgba(83,70,48,.5);
+    font-family: 'Balthazar', serif;
+    font-size: 30px;
+    line-height: 40px;
+    display: block;
+    
+}
+
+#space7{
+    height: 100px;
+    background-color: orange;
+    margin: 5px 5px 0px 5px;
+    border: 0px solid gray;
+    -moz-border-radius: 33px;
+    -webkit-border-radius: 33px;
+    -khtml-border-radius: 33px;
+    border-radius: 33px;
+    background-color: rgba(83,70,48,.5);
+    line-height: 40px;
+
+}
+
+
+.solid {
+    opacity: 1.0;
+}
+.transparent {
+    opacity: .3;
+}
+
+
+/* #Media Queries
+================================================== */
+
+	/* Smaller than standard 960 (devices and browsers) */
+	@media only screen and (max-width: 959px) {}
+
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media only screen and (min-width: 768px) and (max-width: 959px) {}
+
+	/* All Mobile Sizes (devices and browser) */
+	@media only screen and (max-width: 767px) {}
+
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+	@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+	@media only screen and (max-width: 479px) {}
+
+
+/* #Font-Face
+================================================== */
+/* 	This is the proper syntax for an @font-face file
+		Just create a "fonts" folder at the root,
+		copy your FontName into code below and remove
+		comment brackets */
+
+/*	@font-face {
+	    font-family: 'FontName';
+	    src: url('../fonts/FontName.eot');
+	    src: url('../fonts/FontName.eot?iefix') format('eot'),
+	         url('../fonts/FontName.woff') format('woff'),
+	         url('../fonts/FontName.ttf') format('truetype'),
+	         url('../fonts/FontName.svg#webfontZam02nTh') format('svg');
+	    font-weight: normal;
+	    font-style: normal; }
+*/
+
