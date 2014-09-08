@@ -1,0 +1,539 @@
+
+
+
+/* #INDEX Styles
+================================================== */
+
+#bod{
+    /*  background: url('http://www.taghua.com/');
+     background:"http://www.staggeringbeauty.com/";
+       border: 1px inset #ddd;
+   width: 498;
+   height: 598;*/
+   background-image: url('../images/wearable-tech.jpg');
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+}
+
+#header{
+       
+    color: #2deafb;
+    font-size: 50px;
+    font-family: 'Diplomata SC', cursive;
+     padding: 50px 0px 0px 0px;
+     text-align: center;
+     background-color: rgba(0,0,0,.8);
+}
+#border{
+     border-bottom: 5px solid white;
+     height: 50px;
+     width: 100px;
+     padding: 0px 0px 0px 10px;
+    
+}
+#header2{
+    /* background-image: url('../images/2345.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-size: cover;*/
+    font-size: 20px;
+    padding: 50px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    font-family: 'Berkshire Swash', cursive;
+   
+    opacity: 0.8;
+
+filter: alpha(opacity=80);
+}
+
+#header3{
+  /*   background-image: url('../images/2345.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-size: cover;*/
+    font-size: 20px;
+   
+  
+    font-family: 'Berkshire Swash', cursive;
+   
+    opacity: 0.8;
+
+filter: alpha(opacity=80);
+}
+#header4{
+    background-color: blue;
+    height: 150px;
+    font-family: 'Damion', cursive;
+        opacity: 0.8;
+
+filter: alpha(opacity=80);
+    
+}
+
+#header5{
+    background-color: orange;
+    height: 150px;
+        opacity: 0.8;
+
+filter: alpha(opacity=80);
+}
+
+#header6{
+    color: white;
+        opacity: 0.8;
+
+filter: alpha(opacity=80);
+
+}
+
+
+#header7{
+   font-family: 'Finger Paint', cursive;
+    font-size: 25px;
+    padding: 50px 0px 0px 0px;
+    line-space: 5px;
+    color: #c14fd2;
+}
+
+/* links */
+
+a:link {text-decoration: none}
+a:visited {color: #fdfdd9;}
+a:hover {color: #63a8cf;}
+a:activate {color: #24242c;}
+
+a.link {
+    width: 200px;
+    padding: 10px 0px 10px 0px;
+    font-family: 'Average Sans', sans-serif;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    display: online;
+    color: white;
+ 
+
+
+}
+a:hover.link {
+    color: orange;
+   
+    text-decoration: none;
+
+}
+
+
+
+a:link {text-decoration: none}
+a:visited {color: #fdfdd9;}
+a:hover {color: #63a8cf;}
+a:activate {color: #24242c;}
+
+
+
+
+/* #PAGE2 Styles
+================================================== */
+
+#uh{
+margin: 15px 5px 5px 5px;
+color: red;
+
+}
+
+#nyan{
+
+   text-align: center;
+    vertical-align: center;
+    font-size: 15px;
+    margin: 5px 5px 0px 5px;
+    color: black;
+    height: 250px;
+    
+    font-family: 'Special Elite', cursive;
+
+}
+
+#nyan2{
+
+   text-align: center;
+    vertical-align: center;
+    font-size: 15px;
+    margin: 5px 5px 0px 5px;
+    color: white;
+}
+#bod2{
+    background-image: url('../images/bianary.gif');
+        -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#pheader{
+    background-color: black;
+   font-family: 'Fascinate Inline', cursive;
+   font-size: 50px;
+   color: lime;
+   padding: 30px 0px 0px 0px;
+   height: 170px;
+   text-align: center;
+   vertical-align: center;
+    
+}
+
+#pheader2{
+   background-color: black;
+   font-family: 'Fascinate Inline', cursive;
+   font-size: 50px;
+   color: lime;
+   padding: 30px 0px 0px 0px;
+   height: 100px;    
+}
+
+#pheader27{
+   background-color: black;
+   font-family: 'Fascinate Inline', cursive;
+   font-size: 50px;
+   color: yellow;
+   padding: 30px 0px 0px 0px;
+   /*height: 150px;    */
+}
+
+#pheader25{
+  background-color: black;
+   font-family: 'Fascinate Inline', cursive;
+   font-size: 50px;
+   color: yellow;
+   padding: 30px 0px 0px 0px;
+   height: 200px;  
+
+}
+.pics{
+    display: inline-block;
+    margin: 20px 100px 25px 100px; 
+    
+}
+.article{
+    width: 250px;
+}
+
+#pheader3{
+    color: white;
+    
+}
+#section1{
+    background-color: green;
+    height: 350px;
+    
+}
+#pheader4{
+    font-size: 25px;
+    margin: 15px 10px 10px 10px;
+    color: black;
+    font-family: 'Special Elite', cursive;
+    
+}
+
+#pheader45{
+    font-size: 25px;
+    margin: 15px 10px 10px 10px;
+    color: black;
+    font-family: 'Special Elite', cursive;
+    
+}
+
+#pheader5{
+    
+    color: white;
+    font-size: 20px;
+}
+
+#pheader6{
+    color: white;
+    font-size: 20px;
+    
+}
+#pheader7{
+    font-family: 'Fredoka One', cursive;
+      color: orange;
+   padding: 30px 0px 0px 0px;
+   height: 100px;
+   background-color: black;
+   font-size: 50px;
+    
+}
+
+#pheader78{
+    font-family: 'Fredoka One', cursive;
+      color: purple;
+   padding: 30px 0px 0px 0px;
+   background-color: black;
+   font-size: 50px;
+   height: 170px;
+    
+}
+
+#pheader789{
+    font-family: 'Fredoka One', cursive;
+      color: purple;
+   padding: 0px 0px 0px 0px;
+   background-color: black;
+   font-size: 50px;
+   height: 170px;
+    
+}
+
+#pheader67{
+    font-size: 35px;
+    margin: 15px 10px 10px 10px;
+    color: white;
+    font-family: 'Pacifico', cursive;
+}
+#foot{
+    background-color: black;
+    text-align: center;
+    vertical-align: center;
+    color: red;    
+}
+#beh{
+    color: black;
+    font-size: 40px;
+    font-family: 'Special Elite', cursive;
+}
+
+a:link {text-decoration: none}
+a:visited {color: #fdfdd9;}
+a:hover {color: #63a8cf;}
+a:activate {color: #24242c;}
+
+a.link {
+    width: 200px;
+    padding: 10px 0px 10px 0px;
+    font-family: 'Average Sans', sans-serif;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    display: online;
+    color: white;
+ 
+
+
+}
+a:hover.link {
+    color: red;
+   
+    text-decoration: none;
+
+}
+
+
+
+a:link {text-decoration: none}
+a:visited {color: #fdfdd9;}
+a:hover {color: #63a8cf;}
+a:activate {color: #24242c;}
+
+#bod1{
+    background-image: url('../images/orange.jpg');
+          -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+}
+
+#section2{
+    background-color: orange;
+    /*height: 300px;*/
+    
+}
+
+#section3{
+    background-color: violet;
+    /*height: 300px;*/
+    
+}
+
+#border{
+    border-bottom: 3px solid gray;
+    width: 880px;
+    vertical-align: center;
+    margin: 10px 10px 10px 10px;
+    
+}
+
+.pics2{
+    display: inline-block;
+    margin: 20px 50px 25px 50px; 
+    
+}
+#space{
+    margin: 0px 0px 0xp 10px;
+    font-size: 25px;
+    text-align: left;
+    font-family: 'PT Mono', sans-serif;
+    color: purple;
+    
+}
+#bod3{
+    background-image: url('../images/purple.jpg');
+          -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+    
+}
+
+.pics3{
+        display: block;
+    margin: 20px 50px 25px 50px; 
+    
+}
+
+
+
+
+#space2{
+    height: 500px;
+    margin: 5px 0px 0px 5px;
+    color: purple;
+    border: 0px solid gray;
+    -moz-border-radius: 33px;
+    -webkit-border-radius: 33px;
+    -khtml-border-radius: 33px;
+    border-radius: 33px;
+    font-family: 'Jolly Lodger', cursive;
+    font-size: 30px;
+    /*line-height: 100px;*/
+    display: inline-block;
+    
+    
+}
+
+#space3{
+    height: 200px;
+    margin: 0px 0px 0px 5px;
+    background: transparent;
+    
+}
+
+#space4{
+    height: 100px;
+    margin: 10px 100px 5px 5px;
+    border: 0px solid gray;
+    -moz-border-radius: 33px;
+    -webkit-border-radius: 33px;
+    -khtml-border-radius: 33px;
+    border-radius: 33px;
+    background-color: rgba(209,52,199,.5);
+    font-family: 'Press Start 2P', cursive;
+    line-height: 40px;
+    color:black;
+
+}
+
+#space5{
+    height: 1100px;
+    margin: 0px 0px 0px 0px;
+     background-image: url('../images/background_image_cookie.jpg');
+     background-color: rgba(209,52,199,.5);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: inline-block;
+
+    
+}
+
+#space52{
+    height: 600px;
+    margin: 0px 0px 0px 0px;
+     background-image: url('../images/nyan_cat.gif');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+
+#space6{
+    /*height: 500px;*/
+    margin: 10px 0px 0px 50px;
+    color: black;
+    border: 0px solid gray;
+    -moz-border-radius: 33px;
+    -webkit-border-radius: 33px;
+    -khtml-border-radius: 33px;
+    border-radius: 33px;
+    background-color: rgba(209,52,199,.4);
+    font-family: 'Balthazar', serif;
+    font-size: 30px;
+    line-height: 40px;
+    display: block;
+    
+}
+
+#space7{
+    height: 100px;
+    margin: 5px 5px 0px 5px;
+    border: 0px solid gray;
+    -moz-border-radius: 33px;
+    -webkit-border-radius: 33px;
+    -khtml-border-radius: 33px;
+    border-radius: 33px;
+    background-color: rgba(209,52,199,.5);
+    line-height: 40px;
+
+}
+
+
+.solid {
+    opacity: 1.0;
+}
+.transparent {
+    opacity: .3;
+}
+
+
+/* #Media Queries
+================================================== */
+
+	/* Smaller than standard 960 (devices and browsers) */
+	@media only screen and (max-width: 959px) {}
+
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media only screen and (min-width: 768px) and (max-width: 959px) {}
+
+	/* All Mobile Sizes (devices and browser) */
+	@media only screen and (max-width: 767px) {}
+
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+	@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+	@media only screen and (max-width: 479px) {}
+
+
+/* #Font-Face
+================================================== */
+/* 	This is the proper syntax for an @font-face file
+		Just create a "fonts" folder at the root,
+		copy your FontName into code below and remove
+		comment brackets */
+
+/*	@font-face {
+	    font-family: 'FontName';
+	    src: url('../fonts/FontName.eot');
+	    src: url('../fonts/FontName.eot?iefix') format('eot'),
+	         url('../fonts/FontName.woff') format('woff'),
+	         url('../fonts/FontName.ttf') format('truetype'),
+	         url('../fonts/FontName.svg#webfontZam02nTh') format('svg');
+	    font-weight: normal;
+	    font-style: normal; }
+*/
